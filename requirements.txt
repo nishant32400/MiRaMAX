@@ -1,0 +1,7 @@
+fastmcp
+pymongo
+python-dotenv
+requests
+groq
+openai
+
